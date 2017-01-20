@@ -1,0 +1,8 @@
+OrderBurgerIntent I want to order a burger please
+OrderBurgerIntent I want to order a burger
+OrderBurgerIntent I want to order a McDonalds's burger please
+OrderBurgerIntent I want to order a {burgerSize} {burgerType}
+OrderBurgerIntent I want to order a {burgerSize} burger
+OrderBurgerIntent I want to order a {burgerType}
+OrderBurgerIntent {burgerType}
+OrderBurgerIntent {burgerSize}

@@ -1,0 +1,29 @@
+{
+  "intents": [
+    {
+      "intent": "OrderBurgerIntent",
+      "slots": [
+        {
+          "name": "burgerSize",
+          "type": "LIST_OF_BURGER_SIZE"
+        },
+        {
+          "name": "burgerType",
+          "type": "LIST_OF_BURGER_TYPE"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.YesIntent",
+      "slots": []
+    },
+    {
+      "intent": "AMAZON.NoIntent",
+      "slots": []
+    },
+    {
+      "intent": "AMAZON.HelpIntent",
+      "slots": []
+    }
+  ]
+}
